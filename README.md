@@ -1,6 +1,6 @@
 # Paper-Reading-List
 
-지금까지 읽었는 논문 리스트(+논문 리딩 ppt)입니다.
+지금까지 읽었는 논문 리스트(+논문 리딩 ppt)입니다.   
 해당 블로그에서 간단한 총평을 확인할 수 있습니다. (https://samdo3.tistory.com/)
 
 - [Paper-Reading-List](#awesome-paper-reading-list)
