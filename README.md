@@ -1,6 +1,6 @@
-# Awesome-Paper-Reading-List
+# Paper-Reading-List
 
-A curated list of papers I have read (and PPT discussions).
+지금까지 읽었는 논문 리스트(+논문 리딩 ppt)입니다.
 
 - [Paper-Reading-List](#awesome-paper-reading-list)
   - [Language Models](#language-models)
